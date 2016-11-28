@@ -9,6 +9,8 @@ Travel services/vendors recieve the requests, and then book the trips which are 
 
 - Bootstrap 3+
 
+- jQuery
+
 - AngularJs
 
 - NodeJs
@@ -20,17 +22,21 @@ Travel services/vendors recieve the requests, and then book the trips which are 
 
 ### CODE SNIPPETS: ###
 
-### Logo: ###
+### app.js ###
 
-![alt tag](https://cloud.githubusercontent.com/assets/21244627/19442431/b72a5220-94a2-11e6-99f1-496d81fb62ab.png)
+![alt tag](https://cloud.githubusercontent.com/assets/21244627/20664402/e84f05a8-b57c-11e6-929a-868eb2240762.PNG)
 
-### Car Detail: ###
+### routes.js ###
 
-![alt tag](https://cloud.githubusercontent.com/assets/21244627/19442448/c239d0dc-94a2-11e6-8a91-3bf6d384a1e2.png)
+![alt tag](https://cloud.githubusercontent.com/assets/21244627/20664406/ea52b886-b57c-11e6-9240-a719b0231587.PNG)
 
-### CMS: ###
+### user_roles.js ###
 
-![alt tag](https://cloud.githubusercontent.com/assets/21244627/19442469/d3f71064-94a2-11e6-981f-3102c2ea2427.png)
+![alt tag](https://cloud.githubusercontent.com/assets/21244627/20664408/ebac0a84-b57c-11e6-987f-5df38d30c41d.PNG)
+
+### auth.js ###
+
+![alt tag](https://cloud.githubusercontent.com/assets/21244627/20664410/ed33ff1a-b57c-11e6-9bfb-31641020cd7e.PNG)
 
 
 ### SCREENSHOTS: ###
