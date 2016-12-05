@@ -36,7 +36,7 @@ Travel services/vendors recieve the requests, and then book the trips which are 
 
 ### auth.js ###
 
-![alt tag](https://cloud.githubusercontent.com/assets/21244627/20664410/ed33ff1a-b57c-11e6-9bfb-31641020cd7e.PNG)
+![alt tag](https://cloud.githubusercontent.com/assets/21244627/20878778/7ecc36a2-baf2-11e6-9ef2-15866ff1b5ab.PNG)
 
 
 ### SCREENSHOTS: ###
